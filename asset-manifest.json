@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Math-program/static/css/main.fe06503f.css",
+    "main.js": "/Math-program/static/js/main.291779b2.js",
+    "index.html": "/Math-program/index.html",
+    "main.fe06503f.css.map": "/Math-program/static/css/main.fe06503f.css.map",
+    "main.291779b2.js.map": "/Math-program/static/js/main.291779b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe06503f.css",
+    "static/js/main.291779b2.js"
+  ]
+}
